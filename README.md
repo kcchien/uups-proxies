@@ -359,3 +359,4 @@ Transaction details on Etherscan:
 - [Not All Smart Contracts Are Immutable — Create Upgradable Smart Contracts](https://betterprogramming.pub/not-all-smart-contracts-are-immutable-create-upgradable-smart-contracts-e4e933b7b8a9)
 - [UUPS Proxies: Tutorial (Solidity + JavaScript)](https://forum.openzeppelin.com/t/uups-proxies-tutorial-solidity-javascript/7786)
 - [The State of Smart Contract Upgrades](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/)
+- [What are Upgradable Smart Contracts? Full Guide](https://moralis.io/what-are-upgradable-smart-contracts-full-guide/)
