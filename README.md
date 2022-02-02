@@ -1,4 +1,4 @@
-# Homework
+# Upgradable Smart Contracts - UUPS Proxy pattern
 
 ## Introduction
 
